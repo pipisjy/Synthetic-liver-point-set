@@ -11,4 +11,4 @@ txt file in target_txt is the target liver point set
 
 Each txt file contains 1840 lines, each line represents a point of liver point sets
 
-The all files are in the "release"
+The all files are in the "Releases"
